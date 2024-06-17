@@ -1,0 +1,8 @@
+{
+    "bootstrap_servers":"10.48.134.234",
+    "signals_filename":"conf/singals_for_opc2k.json",
+    "publishing_topicname":"opc2k_topic",
+    "cleaning_threshold_msec":5000,
+	"pull_rate_msec":500,
+	"pub_rate_msec":1000
+}
